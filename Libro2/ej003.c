@@ -13,4 +13,6 @@ int main() {
     else{
         printf("El producto %d * %d es distinto de 100\n",n,m);
     }
+
+   return 0;
 }

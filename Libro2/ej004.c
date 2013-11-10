@@ -18,4 +18,5 @@ int main() {
     distancia= sqrt(pow(dx,2)) + sqrt(pow(dy,2));
     printf("La distancia entre los dos puntos es: %f", distancia);
 
+    return 0;
 }
